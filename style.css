@@ -1,0 +1,47 @@
+body{
+    background-color: crimson;
+    text-align: center;
+}
+
+#button_show{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+input{
+    margin:10px;
+    font-size: 20px;
+    background-color: rgb(4, 255, 113);
+    color: rgb(78, 78, 78);
+}
+
+h1{
+    font-size: 40px;  
+}
+
+h2{
+    font-size: 30px;  
+}
+
+h3{
+    font-size: 30px;  
+}
+
+#four-pizzas{
+    height: 400;
+    width: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#four-toppings{
+    height: 400;
+    width: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#button_show{
+    font-size: 20px;
+    background-color: rgb(0, 255, 110);
+}
